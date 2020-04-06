@@ -7,42 +7,39 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Maike Henrique Meneguetti Mota
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: maike_henrique@hotmail.com
+    phone: 43 9 9986-7608
+    #website: blog.webjeda.com #do not add http://
+    linkedin: maikemota
+    github: maikemota
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    stack-overflow: 30962/maike-mota
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Português
+        level: Nativo
 
-      - idiom: French
+      - idiom: Inglês
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+    #interests:
+    #  - item: Climbing
+    #    link:
 
-    interests:
-      - item: Climbing
-        link:
+    #  - item: Snowboarding
+    #    link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+    #  - item: Cooking
+    #    link:
 
 career-profile:
     title: Career Profile
@@ -168,22 +165,22 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        #level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        #level: 98%
 
       - name: Angular
-        level: 98%
+        #level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        #level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        #level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        #level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
